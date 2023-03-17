@@ -1,2 +1,1 @@
-# Stos
-stos c++ (STATIC)
+# stos c++ (STATIC)
