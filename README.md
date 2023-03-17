@@ -1,0 +1,2 @@
+# Stos
+stos c++ (STATIC)
